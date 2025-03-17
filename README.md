@@ -1,4 +1,4 @@
-# DIO---Projeto-conceitual-MER
+# Projeto-conceitual-MER-DIO (Bootcamp)
 E-commerce, reaplicando e refinando projeto começado no BootCamp da Heineken - Inteligência Artificial Aplicada a Dados com Copilot - DIO
 Projeto para replicação de conhecimentos sobre Modelo de Relacionamento de Entidade
 Com uma narrativa de produtos, clientes, pedidos, estoque
