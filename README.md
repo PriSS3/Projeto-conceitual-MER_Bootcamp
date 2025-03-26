@@ -1,5 +1,6 @@
 # Projeto-conceitual-MER Bootcamp
 E-commerce, reaplicando e refinando projeto começado no BootCamp da Heineken - Inteligência Artificial Aplicada a Dados com Copilot - DIO
+
 Projeto para replicação de conhecimentos sobre Modelo de Relacionamento de Entidade
 Com uma narrativa de produtos, clientes, pedidos, estoque
 O refinamento do modelo apresentado foi acrescentando os seguintes pontos:
